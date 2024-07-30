@@ -3,7 +3,7 @@
 ## Compose sample application
 ### React application with a NodeJS backend and a MongoDB database
 
-miru demo video!
+miru demo video! change
 
 Project structure:
 ```
