@@ -1,9 +1,9 @@
 *This is a sample application pulled from awesome-compose on github. It has been slightly edited to allow for an OTA deployment using a service like Miru.*
 
 ## Compose sample application
-### React application with a NodeJS backend and a MongoDB databaseafd
+### React application with a NodeJS backend and a MongoDB database
 
-miru demo video! change 1
+Hey Ethan!
 
 Project structure:
 ```
