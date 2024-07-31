@@ -3,7 +3,7 @@
 ## Compose sample application
 ### React application with a NodeJS backend and a MongoDB database
 
-push code brother
+Hi Shrijit!!
 
 Project structure:
 ```
