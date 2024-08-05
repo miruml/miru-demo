@@ -3,7 +3,7 @@
 ## Compose sample application
 ### React application with a NodeJS backend and a MongoDB database
 
-test
+want a classic, that's just 10 of these
 Project structure:
 ```
 .
